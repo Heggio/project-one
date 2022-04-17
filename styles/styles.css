@@ -1,1 +1,11 @@
-li {float:left}
+li {float:left;
+    text-decoration: none;
+}
+li a {
+    display: block;
+    color: blueviolet;
+    text-align: center;
+    font-family: sans-serif;
+    padding: 10px;
+    text-decoration: none;
+}
