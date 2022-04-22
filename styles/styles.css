@@ -9,3 +9,9 @@ li a {
     padding: 10px;
     text-decoration: none;
 }
+
+.announcement-bar {
+    background-color: #c94493;
+    font-family: sans-serif;
+    color: antiquewhite;
+  }
