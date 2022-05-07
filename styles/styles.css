@@ -10,7 +10,11 @@
   padding: auto;
   border-radius: 15px;
 }
-ul {
+.navbar{
+  overflow: hidden;
+}
+
+.navbar ul {
     list-style-type: none;
     margin: auto;
     padding: 10px;
@@ -21,11 +25,11 @@ ul {
     border-radius: 10px;
 }
 
-li {float:left;
+.navbar li {float:left;
     text-decoration: none;
     display: inline;
 }
-li a {
+.navbar li a {
     display: block;
     background-color: #f7b0da;
     color: blueviolet;
@@ -36,12 +40,12 @@ li a {
     font-size: 20px;
 }
 
-li a:hover {
+.navbar li a:hover {
     background-color: #c94493;
     border-radius: 10px;
 }
 
-.active {
+.navbar .active {
     background-color: #c94493;
     border-radius: 10px;
 }
@@ -266,4 +270,17 @@ footer
 @keyframes fade {
   from {opacity: .4}
   to {opacity: 1}
+}
+.faqtext{
+  font-family: sans-serif
+}
+
+.faqtext h1{
+  color: blueviolet;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.faqtext a{
+  text-decoration: none;
 }
