@@ -1,18 +1,19 @@
 # Project-one - Bywell Bakers
 
-A this a HTML, CCS & Java script created webite
+This repo houses code used to build the Bywell Bakers website. Using a HTML, CCS & Java script.
 
 
 ## Acknowledgements
 
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [W3 Schools] (https://www.w3schools.com/html/default.asp)
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 
-## Demo
+## Tools
 
-Insert gif or link to demo
+This webiste was built and developed on Visual Studio Code.
+
 
 
 ## Installation
