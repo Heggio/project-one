@@ -14,8 +14,6 @@ This repo houses code used to build the Bywell Bakers website. Using a HTML, CCS
 
 This webiste was built and developed on Visual Studio Code.
 
-
-
 ## Author
 
 Will Heginbotham

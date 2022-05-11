@@ -76,6 +76,26 @@
         width: 50%;
         
       }
+.aboutus{
+  color: blueviolet;
+  text-align: center;
+  font-family: sans-serif; 
+    }
+
+.aboutus h2 {
+  color: blueviolet;
+  text-align: center;
+  font-family: sans-serif; 
+  padding: auto;
+}
+.aboutus p {
+  color:black;
+  font-family: sans-serif;
+  text-align: center;
+  margin: auto;
+  padding: auto;
+  width: 50%;
+}
 
   .contact h1 {
   color: blueviolet;
@@ -164,6 +184,10 @@
 	position: relative;
 	margin: 10px 30px;
   padding: auto;
+}
+
+.p-box p {
+  color: black;
 }
 
 p-box img{
