@@ -16,11 +16,6 @@ This webiste was built and developed on Visual Studio Code.
 
 
 
-## Installation
+## Author
 
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
+Will Heginbotham
